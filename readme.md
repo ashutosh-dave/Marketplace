@@ -1,4 +1,4 @@
-# Marketplace WebApp
+# Marketplace
 
 - Built while learning PHP, JavaScript, Bootstrap, jQuery, and AJAX.
 - Uses MySQL for database.
