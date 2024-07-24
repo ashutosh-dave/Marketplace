@@ -1,7 +1,12 @@
-# Marketplace
+# Marketplace - e-Commerce site to buy, sell, and auction products.
 
-- Built while learning PHP, JavaScript, Bootstrap, jQuery, and AJAX.
-- Uses MySQL for database.
-- Inspired from eBay for the functionalities it offers.
+- Built using PHP, jQuery, and MySQL for database.
 
-It's not front-end heavy project, as my primary goal was to learn how to build an online marketplace with all the functionalities.
+## Features
+- User-friendly UI
+- Seamless user-experience to buy or sell products.
+- Option to auction your valuable memorabilia, and collectibles.
+- Payment Gateway integration
+
+//to-do
+- add screenshots
